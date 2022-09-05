@@ -28,3 +28,7 @@ Use the following link to get to the actual website:
 2. [Modify pages](https://github.com/Schulze-lab/Schulze-lab-website/wiki)
 
 3. [Make a pull request](https://github.com/Schulze-lab/Schulze-lab-website/wiki)
+
+## Acknowledgements
+
+This repository is based on the Lab Website Template by the Greene lab which can be found [here](https://github.com/greenelab/lab-website-template)
