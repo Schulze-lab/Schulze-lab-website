@@ -1,1 +1,420 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
+# See https://github.com/greenelab/lab-website-template/wiki/Citations
+
+- id: doi:10.1371/journal.pbio.3001277
+  title: Comprehensive glycoproteomics shines new light on the complexity and extent
+    of glycosylation in archaea
+  authors:
+  - Stefan Schulze
+  - Friedhelm Pfeiffer
+  - Benjamin A. Garcia
+  - Mechthild Pohlschroder
+  publisher: PLOS Biology
+  date: '2021-06-17'
+  link: https://doi.org/gqrnzc
+  _cache: 140c89f21e5c8f3c62906d390536ddc2786b4cb8d5563ab90c8397cc1bbd1056
+- id: doi:10.1038/s41467-020-16784-7
+  title: The Archaeal Proteome Project advances knowledge about archaeal cell biology
+    through comprehensive proteomics
+  authors:
+  - Stefan Schulze
+  - Zachary Adams
+  - Micaela Cerletti
+  - Rosana De Castro
+  - "S\xE9bastien Ferreira-Cerca"
+  - Christian Fufezan
+  - "Mar\xEDa In\xE9s Gim\xE9nez"
+  - Michael Hippler
+  - Zivojin Jevtic
+  - "Robert Kn\xFCppel"
+  - Georgio Legerme
+  - Christof Lenz
+  - Anita Marchfelder
+  - Julie Maupin-Furlow
+  - Roberto A. Paggi
+  - Friedhelm Pfeiffer
+  - Ansgar Poetsch
+  - Henning Urlaub
+  - Mechthild Pohlschroder
+  publisher: Nature Communications
+  date: '2020-06-19'
+  link: https://doi.org/gqrnzd
+  _cache: 862fba7409a5edf7c5fb1cfff4b48e6ffd75a12edd005bacc7833d3488bb7f1b
+- id: doi:10.1128/jmbe.00234-21
+  title: 'A Twist to the Kirby-Bauer Disk Diffusion Susceptibility Test: an Accessible
+    Laboratory Experiment Comparing Haloferax volcanii and Escherichia coli Antibiotic
+    Susceptibility to Highlight the Unique Cell Biology of Archaea'
+  authors:
+  - Heather Schiller
+  - Criston Young
+  - Stefan Schulze
+  - Manuela Tripepi
+  - Mechthild Pohlschroder
+  publisher: Journal of Microbiology &amp; Biology Education
+  date: '2022-04-29'
+  link: https://doi.org/gqrnw6
+  _cache: 90c9276f12193a15d040eab6dfae9c6ac07048ae59b26b6ac4a94ed826f7f51c
+- id: doi:10.1128/aem.02283-21
+  title: Advanced Understanding of Prokaryotic Biofilm Formation through Use of a
+    Cost-Effective and Versatile Multipanel Adhesion (mPAD) Mount
+  authors:
+  - Stefan Schulze
+  - Heather Schiller
+  - Jordan Solomonic
+  - Orkan Telhan
+  - Kyle Costa
+  - Mechthild Pohlschroder
+  publisher: Applied and Environmental Microbiology
+  date: '2022-02-22'
+  link: https://doi.org/gqrn7s
+  _cache: f7836dd6643f14561a81c4c2548cd05e6aca59d042fad73696742b62b568cd00
+- id: doi:10.1021/acs.jproteome.0c00799
+  title: Enhancing Open Modification Searches via a Combined Approach Facilitated
+    by Ursgal
+  authors:
+  - Stefan Schulze
+  - Aime Bienfait Igiraneza
+  - "Manuel K\xF6sters"
+  - Johannes Leufken
+  - Sebastian A. Leidel
+  - Benjamin A. Garcia
+  - Christian Fufezan
+  - Mechthild Pohlschroder
+  publisher: Journal of Proteome Research
+  date: '2021-01-29'
+  link: https://doi.org/gqrn7v
+  _cache: b6a3a69aeae8be97ad04a1fefbd6f24f99365a98e30624781ad8add6e147bd02
+- id: doi:10.1093/bioinformatics/btaa1042
+  title: SugarPy facilitates the universal, discovery-driven analysis of intact glycopeptides
+  authors:
+  - Stefan Schulze
+  - Anne Oltmanns
+  - Christian Fufezan
+  - "Julia Kr\xE4genbring"
+  - Michael Mormann
+  - "Mechthild Pohlschr\xF6der"
+  - Michael Hippler
+  publisher: Bioinformatics
+  date: '2020-12-01'
+  link: https://doi.org/gqrn7z
+  _cache: 1c1c0f550c264cdf6784669342a48bcf1ca7c12f09d05d96337d81bc4bd1e228
+- id: doi:10.1128/msphere.00976-20
+  title: Haloferax volcanii Immersed Liquid Biofilms Develop Independently of Known
+    Biofilm Machineries and Exhibit Rapid Honeycomb Pattern Formation
+  authors:
+  - Heather Schiller
+  - Stefan Schulze
+  - Zuha Mutan
+  - Charlotte de Vaulx
+  - Catalina Runcie
+  - Jessica Schwartz
+  - Theopi Rados
+  - Alexandre W. Bisson Filho
+  - Mechthild Pohlschroder
+  publisher: mSphere
+  date: '2020-12-23'
+  link: https://doi.org/gqrn8f
+  _cache: 756229712f86a886503730c1676407f4067d53fd61dfa2669c9ea678be380469
+- id: doi:10.1073/pnas.1809973115
+  title: "Structure of a PSI\u2013LHCI\u2013cyt b\n            <sub>6</sub>\n    \
+    \        f supercomplex in\n            <i>Chlamydomonas reinhardtii</i>\n   \
+    \         promoting cyclic electron flow under anaerobic conditions"
+  authors:
+  - Janina Steinbeck
+  - Ian L. Ross
+  - Rosalba Rothnagel
+  - "Philipp G\xE4belein"
+  - Stefan Schulze
+  - Nichole Giles
+  - Rubbiya Ali
+  - Rohan Drysdale
+  - Emma Sierecki
+  - Yann Gambin
+  - Henning Stahlberg
+  - Yuichiro Takahashi
+  - Michael Hippler
+  - Ben Hankamer
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2018-09-25'
+  link: https://doi.org/gfgfkf
+  _cache: 1390a307ecc5a7276cce0879f67229622e0e5268efc75a7e7ec419500b622509
+- id: doi:10.1093/femsre/fuy027
+  title: Archaeal cell surface biogenesis
+  authors:
+  - Mechthild Pohlschroder
+  - Friedhelm Pfeiffer
+  - Stefan Schulze
+  - Mohd Farid Abdul Halim
+  publisher: FEMS Microbiology Reviews
+  date: '2018-06-15'
+  link: https://doi.org/gdqszr
+  _cache: 31c5d8402ec5d8e2d5880d1650d6d33b3568eff3c241f4fc8eb125c5cc982cd0
+- id: doi:10.1093/bioinformatics/bty046
+  title: 'pymzML v2.0: introducing a highly compressed and seekable gzip format'
+  authors:
+  - "M K\xF6sters"
+  - J Leufken
+  - S Schulze
+  - K Sugimoto
+  - J Klein
+  - R P Zahedi
+  - M Hippler
+  - S A Leidel
+  - C Fufezan
+  publisher: Bioinformatics
+  date: '2018-01-31'
+  link: https://doi.org/gdwwg9
+  _cache: 3058af7f8a5710ba47c65abcfe16e658455f4d8bc1bd49ac491ae40d1092b73b
+- id: doi:10.1111/nph.14713
+  title: "Identification of methylated GnTI\u2010dependent\n            <i>N</i>\n\
+    \            \u2010glycans in\n            <i>Botryococcus brauni</i>"
+  authors:
+  - Stefan Schulze
+  - Eugen Urzica
+  - Maarten J. M. F. Reijnders
+  - Henri Geest
+  - Sven Warris
+  - Linda V. Bakker
+  - Christian Fufezan
+  - Vitor A. P. Martins dos Santos
+  - Peter J. Schaap
+  - Sander A. Peters
+  - Michael Hippler
+  publisher: New Phytologist
+  date: '2017-07-24'
+  link: https://doi.org/gbrks3
+  _cache: a4c6abcc373a34131a1b58f8c17d595756b258009cd4cf4b5fb3ec9f91d44e6b
+- id: doi:10.1128/jb.00802-16
+  title: ArtA-Dependent Processing of a Tat Substrate Containing a Conserved Tripartite
+    Structure That Is Not Localized at the C Terminus
+  authors:
+  - Mohd Farid Abdul Halim
+  - Jonathan D. Stoltzfus
+  - Stefan Schulze
+  - Micheal Hippler
+  - Mechthild Pohlschroder
+  publisher: Journal of Bacteriology
+  date: '2017-04-01'
+  link: https://doi.org/gqrn8g
+  _cache: c12d3e30cfe68d271dec724c315229b707070a54508a96d90689d476021f380a
+- id: doi:10.1104/pp.17.01450
+  title: <i>N</i>-Glycoproteomic Characterization of Mannosidase and Xylosyltransferase
+    Mutant Strains of <i>Chlamydomonas</i><i>reinhardtii</i>
+  authors:
+  - Stefan Schulze
+  - Anne Oltmanns
+  - Nick Machnik
+  - Gai Liu
+  - Nannan Xu
+  - Niklas Jarmatz
+  - Martin Scholz
+  - Kazuhiko Sugimoto
+  - Christian Fufezan
+  - Kaiyao Huang
+  - Michael Hippler
+  publisher: Plant Physiology
+  date: '2017-12-29'
+  link: https://doi.org/gc7wmc
+  _cache: c55101317ef41ff1e95e50bca9ccb8fed9c0fabf5bbb8bdd1c39323f6a94132a
+- id: doi:10.1038/ncomms11847
+  title: Calredoxin represents a novel type of calcium-dependent sensor-responder
+    connected to redox regulation in the chloroplast
+  authors:
+  - Ana Karina Hochmal
+  - Karen Zinzius
+  - Ratana Charoenwattanasatien
+  - "Philipp G\xE4belein"
+  - Risa Mutoh
+  - Hideaki Tanaka
+  - Stefan Schulze
+  - Gai Liu
+  - Martin Scholz
+  - "Andr\xE9 Nordhues"
+  - Jan Niklas Offenborn
+  - Dimitris Petroutsos
+  - Giovanni Finazzi
+  - Christian Fufezan
+  - Kaiyao Huang
+  - Genji Kurisu
+  - Michael Hippler
+  publisher: Nature Communications
+  date: '2016-06-14'
+  link: https://doi.org/f8s7z2
+  _cache: 9e43a876203ef5b41bcaabebf2d4af33018fdf8cc4344296f8416dff984bbaad
+- id: doi:10.1074/jbc.m115.693556
+  title: Identification of Haloferax volcanii Pilin N-Glycans with Diverse Roles in
+    Pilus Biosynthesis, Adhesion, and Microcolony Formation
+  authors:
+  - Rianne N. Esquivel
+  - Stefan Schulze
+  - Rachel Xu
+  - Michael Hippler
+  - Mechthild Pohlschroder
+  publisher: Journal of Biological Chemistry
+  date: '2016-05-01'
+  link: https://doi.org/f8qkpk
+  _cache: 487bb66b3f02849021d17f00a28cce786d775a0879aef11fd966e0e0c8a42f3f
+- id: doi:10.1021/acs.jproteome.5b00860
+  title: Ursgal, Universal Python Module Combining Common Bottom-Up Proteomics Tools
+    for Large-Scale Analysis
+  authors:
+  - Lukas P. M. Kremer
+  - Johannes Leufken
+  - Purevdulam Oyunchimeg
+  - Stefan Schulze
+  - Christian Fufezan
+  publisher: Journal of Proteome Research
+  date: '2016-01-13'
+  link: https://doi.org/f8c56j
+  _cache: f80e1e0dde4034df0b44854e3ba2da2cee82426b4e34c2d46eff12c381888a0d
+- id: doi:10.1016/j.bbabio.2015.02.010
+  title: Calcium-dependent regulation of photosynthesis
+  authors:
+  - Ana Karina Hochmal
+  - Stefan Schulze
+  - Kerstin Trompelt
+  - Michael Hippler
+  publisher: Biochimica et Biophysica Acta (BBA) - Bioenergetics
+  date: '2015-09-01'
+  link: https://doi.org/f7j6kn
+  _cache: 30251d2f165ea4519e08d09044db8a6eedb59e780244db354998651263b76f9e
+- id: doi:10.1074/mcp.m113.032771
+  title: The Interplay of Light and Oxygen in the Reactive Oxygen Stress Response
+    of Chlamydomonas reinhardtii Dissected by Quantitative Mass Spectrometry
+  authors:
+  - Johannes Barth
+  - Sonja Verena Bergner
+  - Daniel Jaeger
+  - Anna Niehues
+  - Stefan Schulze
+  - Martin Scholz
+  - Christian Fufezan
+  publisher: Molecular &amp; Cellular Proteomics
+  date: '2014-04-01'
+  link: https://doi.org/f5xgzd
+  _cache: 19debe41f0129378103902eaac08947c8e6a3cb81489824048a47e03017c6db2
+- id: doi:10.1074/mcp.m113.028191
+  title: Exploring the N-glycosylation Pathway in Chlamydomonas reinhardtii Unravels
+    Novel Complex Structures
+  authors:
+  - Elodie Mathieu-Rivet
+  - Martin Scholz
+  - Carolina Arias
+  - Flavien Dardelle
+  - Stefan Schulze
+  - "Fran\xE7ois Le Mauff"
+  - Gavin Teo
+  - Ana Karina Hochmal
+  - Amaya Blanco-Rivero
+  - Corinne Loutelier-Bourhis
+  - Marie-Christine Kiefer-Meyer
+  - Christian Fufezan
+  - Carole Burel
+  - Patrice Lerouge
+  - Flor Martinez
+  - Muriel Bardor
+  - Michael Hippler
+  publisher: Molecular &amp; Cellular Proteomics
+  date: '2013-11-01'
+  link: https://doi.org/f5mhmn
+  _cache: f1baa8cb0d731b66f0aa9995bae2cf47f557dfeb446f38558c5a87ab41960ceb
+- id: doi:10.1093/glycob/cws224
+  title: An essential serotype recognition pocket on phage P22 tailspike protein forces
+    Salmonella enterica serovar Paratyphi A O-antigen fragments to bind as nonsolution
+    conformers
+  authors:
+  - Dorothee Andres
+  - Ulrich Gohlke
+  - Nina K Broeker
+  - Stefan Schulze
+  - Wolfgang Rabsch
+  - Udo Heinemann
+  - Stefanie Barbirz
+  - Robert Seckler
+  publisher: Glycobiology
+  date: '2013-01-03'
+  link: https://doi.org/f4p987
+  _cache: 277b9394fb7232448de4f4ff8aa748af137ed6ac5d1fa6e6d8a0724f75ab62df
+- id: doi:10.1016/j.tim.2018.10.004
+  title: Haloferax volcanii
+  authors:
+  - Mechthild Pohlschroder
+  - Stefan Schulze
+  publisher: Trends in Microbiology
+  date: '2019-01-01'
+  link: https://doi.org/gfrmtt
+  _cache: ecacbe47b21a44ccc7c57372327e7b5877ac693c235a51a791fc86fa7ae4e094
+- id: doi:10.3389/fpls.2019.01686
+  title: Novel Insights Into N-Glycan Fucosylation and Core Xylosylation in C. reinhardtii
+  authors:
+  - Anne Oltmanns
+  - Lara Hoepfner
+  - Martin Scholz
+  - Karen Zinzius
+  - Stefan Schulze
+  - Michael Hippler
+  publisher: Frontiers in Plant Science
+  date: '2020-01-15'
+  link: https://doi.org/gqrpk9
+  _cache: 7e3bc190b6878e9bc33f68125ac22b66f00e621f268df24aa8cbc077ec814e90
+- id: doi:10.1128/mBio.00349-20
+  title: Lipid Anchoring of Archaeosortase Substrates and Midcell Growth in Haloarchaea
+  authors:
+  - Mohd Farid Abdul-Halim
+  - Stefan Schulze
+  - Anthony DiLucido
+  - Friedhelm Pfeiffer
+  - Alexandre Wilson Bisson Filho
+  - Mechthild Pohlschroder
+  publisher: mBio
+  date: '2020-04-28'
+  link: https://doi.org/gqrpmb
+  _cache: 006ca15cd9e45ab575583d12d088cddd8aa24230370fe2dc8794816c7db8a736
+- id: doi:10.1038/s41467-021-26111-3
+  title: A proteomics sample metadata representation for multiomics integration and
+    big data analysis
+  authors:
+  - Chengxin Dai
+  - "Anja F\xFCllgrabe"
+  - Julianus Pfeuffer
+  - Elizaveta M. Solovyeva
+  - Jingwen Deng
+  - Pablo Moreno
+  - Selvakumar Kamatchinathan
+  - Deepti Jaiswal Kundu
+  - Nancy George
+  - Silvie Fexova
+  - "Bj\xF6rn Gr\xFCning"
+  - "Melanie Christine F\xF6ll"
+  - Johannes Griss
+  - Marc Vaudel
+  - Enrique Audain
+  - Marie Locard-Paulet
+  - Michael Turewicz
+  - Martin Eisenacher
+  - Julian Uszkoreit
+  - Tim Van Den Bossche
+  - "Veit Schw\xE4mmle"
+  - Henry Webel
+  - Stefan Schulze
+  - "David Bouyssi\xE9"
+  - Savita Jayaram
+  - Vinay Kumar Duggineni
+  - Patroklos Samaras
+  - Mathias Wilhelm
+  - Meena Choi
+  - Mingxun Wang
+  - Oliver Kohlbacher
+  - Alvis Brazma
+  - Irene Papatheodorou
+  - Nuno Bandeira
+  - Eric W. Deutsch
+  - "Juan Antonio Vizca\xEDno"
+  - Mingze Bai
+  - Timo Sachsenberg
+  - Lev I. Levitsky
+  - Yasset Perez-Riverol
+  publisher: Nature Communications
+  date: '2021-10-06'
+  link: https://doi.org/gqrpmc
+  _cache: 97479cbbfbc732acc7a94c7f2bf81f46cd8c1acfaef0da075c8c3efdcb8ef201
