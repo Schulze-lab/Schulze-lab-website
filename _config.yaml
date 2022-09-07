@@ -3,7 +3,7 @@
 # site properties and page defaults
 title: Schulze Lab Website
 description: Website for the Schulze lab at RIT
-logo: images/logo.png
+logo: images/logo.jpg
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: ""
@@ -39,11 +39,11 @@ defaults:
       type: "members"
     values:
       layout: member
-  # markdown files in /_posts
-  - scope:
-      type: "posts"
-    values:
-      layout: post
+  # # markdown files in /_posts
+  # - scope:
+  #     type: "posts"
+  #   values:
+  #     layout: post
 
 # collections
 collections:
