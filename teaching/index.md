@@ -9,7 +9,7 @@ nav:
 
 Teaching will start in Spring 2023.
 {% include section.html %}
-<!--- 
+<!-- 
 {% include search-info.html %}
 
 {% include list.html data="posts" component="post-excerpt" %}
@@ -26,4 +26,4 @@ Teaching will start in Spring 2023.
 <a href="https://twitter.com/GreeneScientist?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @GreeneScientist</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <a href="https://twitter.com/intent/tweet?screen_name=GreeneScientist&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @GreeneScientist</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {:.center}
- --->
+ -->

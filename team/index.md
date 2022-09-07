@@ -39,7 +39,7 @@ I'm excited to have just started my lab at RIT and am looking for new students, 
   data="members"
   component="portrait"
   filters="role: programmer"
-%} --->
+%} -->
 {:.center}
 <!--- 
 {% include section.html background="images/banner.jpg" dark=true%}
@@ -97,4 +97,4 @@ Our work is made possible by funding from several organizations.
   link6="https://nasa.gov/"
   tooltip6="Cool Initiative"
 %}
- --->
+ -->

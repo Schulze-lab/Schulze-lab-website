@@ -16,4 +16,5 @@ This site is currently under construction. Stay tuned for updates on current pro
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %} --->
+{% include list.html data="citations" component="citation" style="rich" %} 
+-->
