@@ -8,8 +8,8 @@ nav:
 # <i class="fas fa-feather-alt"></i>Teaching
 
 Teaching will start in Spring 2023.
-<!--- {% include section.html %}
-
+{% include section.html %}
+<!--- 
 {% include search-info.html %}
 
 {% include list.html data="posts" component="post-excerpt" %}
