@@ -4,7 +4,7 @@ title: Home
 
 # Deciphering the Roles of Glycoproteins in Prokaryotes
 
-{% include section.html full=true %}
+{% include section.html %}
 
 {% include banner.html image="images/banner.jpg" %}
 

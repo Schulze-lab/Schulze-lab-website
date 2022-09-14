@@ -38,17 +38,16 @@ We are currently located on the 1st floor of Gosnell Hall.
   link="https://goo.gl/maps/aGDFyYoGM21a27NY6"
   style="button"
 %}
-{:.center}
 
 {% include section.html %}
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-Schulze Lab
-Rochester Institute of Technology
-Gosnell Building, Room 1284
-85 Lomb Memorial Dr.
-Rochester, NY 14623
+Schulze Lab<br>
+Rochester Institute of Technology<br>
+Gosnell Building, Room 1284<br>
+85 Lomb Memorial Dr.<br>
+Rochester, NY 14623<br>
 USA
 
 {%
