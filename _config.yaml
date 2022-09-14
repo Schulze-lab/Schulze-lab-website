@@ -11,9 +11,9 @@ baseurl: ""
 # site social media and other links
 links:
   email: stefan.schulze@rit.edu
-  google-scholar: Stefan Schulze
+  google-scholar: https://scholar.google.com/citations?hl=en&user=vV6jVUoAAAAJ&view_op=list_works&authuser=1&sortby=pubdate
   github: StSchulze
-  twitter: schulze_lab
+  twitter: @schulze_lab
   # instagram: YourLabHandle
   # youtube: YourLabChannel
 
