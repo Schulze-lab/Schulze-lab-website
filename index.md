@@ -2,45 +2,34 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Deciphering the Roles of Glycoproteins in Prokaryotes
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
-
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
-{:.center}
-
-{% include section.html full=true %}
+{% include section.html %}
 
 {% include banner.html image="images/banner.jpg" %}
 
-{% include section.html %}
+Protein glycosylation, an inherent trait of all forms of life on Earth, is crucial for a multitude of cellular processes. Yet, for most prokaryotes little is known about which proteins are glycosylated, and how this modification is involved in their cell biology. Given the importance of prokaryotes as the cause of various human diseases, and as beneficial actors in microbiomes and biotechnology, research in the Schulze lab at the Rochester Institute of Technology advances our understanding of the roles of prokaryotic glycoproteins.
+
+{% include section.html %} 
 
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The complexity and diversity of protein glycosylation in prokaryotes complicate their analysis. Therefore, we use an interdisciplinary approach, which combines bioinformatics, proteomics, and cell biological assays for the functional, syste-wide analysis of glycoproteins.
 
 {%
   include link.html
   link="research"
-  text="See what we've published"
+  text="Current projects"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
+
+{%
+  include link.html
+  link="publications"
+  text="Publications"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -49,22 +38,21 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research_goals3.jpg"
   link="research"
   title="Our Research"
   text=text
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Research thrives through collaboration. Therefore, we make our tools available for everyone - open-source and openly licensed - and follow FAIR data sharing principles for all our published datasets.
 
 {%
   include link.html
   link="tools"
-  text="Browse our tools"
+  text="Explore our tools and resoruces"
   icon="fas fa-arrow-right"
-  flip=true
+  flip=false
 %}
 {:.center}
 {% endcapture %}
@@ -73,18 +61,18 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include feature.html
   image="images/photo.jpg"
   link="resources"
-  title="Our Resources"
-  flip=true
+  title="Tools and Resources"
+  flip=false
   text=text
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The Schulze lab is young, and growing. We promote a diversity of backgrounds, experiences, perspectives, cultures, identities, and ideas, all of which are invaluable to the advancement of scientific research.
 
 {%
   include link.html
   link="team"
-  text="Meet our team"
+  text="Meet (and join?) our team"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -95,9 +83,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="The Group"
   text=text
 %}
+ 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+# News
+
+<a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/schulze_lab?ref_src=twsrc%5Etfw">Tweets by schulze_lab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+{:.center}
+
+<a href="https://twitter.com/schulze_lab?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @GreeneScientist</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/intent/tweet?screen_name=schulze_lab&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @schulze_lab</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{:.center}
