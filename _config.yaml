@@ -62,6 +62,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-feed
   - jekyll-sitemap
+  - gatsby-plugin-twitter
   # - jekyll-github-metadata
   # - jekyll-avatar
   # - jekyll-gist

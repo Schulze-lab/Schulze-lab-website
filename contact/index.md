@@ -28,7 +28,6 @@ We are currently located on the 1st floor of Gosnell Hall.
   link="+1-585-475-5659"
   style="button"
 %}
-
 {%
   include link.html
   type="address"
