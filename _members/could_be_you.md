@@ -1,6 +1,6 @@
 ---
 name: This could be you
-image: images/pixel_you.jpg
+image: images/Could_be_you.jpg
 description: Student
 role: programmer
 # group: alum
