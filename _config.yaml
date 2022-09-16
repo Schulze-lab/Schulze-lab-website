@@ -1,11 +1,11 @@
 ### basic settings
 
 # site properties and page defaults
-title: Schulze Lab Website
-description: Website for the Schulze lab at RIT
-logo: images/logo.jpg
-header: images/background.jpg
-footer: images/background.jpg
+title: ""
+description: Schulze lab at RIT
+logo: images/LabLogo_light_background_complex1.svg
+header: images/Banner.svg
+footer: images/Banner.svg
 baseurl: ""
 
 # site social media and other links

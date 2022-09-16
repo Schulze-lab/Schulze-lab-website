@@ -6,13 +6,13 @@ title: Home
 
 {% include section.html %}
 
-{% include banner.html image="images/banner.jpg" %}
+{% include banner.html image="images/Main_banner.svg" %}
 
-Protein glycosylation, an inherent trait of all forms of life on Earth, is crucial for a multitude of cellular processes. Yet, for most prokaryotes little is known about which proteins are glycosylated, and how this modification is involved in their cell biology. Given the importance of prokaryotes as the cause of various human diseases, and as beneficial actors in microbiomes and biotechnology, research in the Schulze lab at the Rochester Institute of Technology advances our understanding of the roles of prokaryotic glycoproteins.
+Protein glycosylation, an inherent trait of all forms of life on Earth, is crucial for a multitude of cellular processes. Yet, for most prokaryotes little is known about which proteins are glycosylated, and how this modification is involved in their cell biology. Given the importance of prokaryotes as the cause of various human diseases, and as beneficial actors in microbiomes and biotechnology, it is crucial to advance our understanding of the roles of prokaryotic glycoproteins. The Schulze lab at the Rochester Institute of Technology is dedicated to this aim, using the strengths of functional glycoproteomics.
 
 {% include section.html %} 
 
-# Highlights
+# Overview
 
 {% capture text %}
 The complexity and diversity of protein glycosylation in prokaryotes complicate their analysis. Therefore, we use an interdisciplinary approach, which combines bioinformatics, proteomics, and cell biological assays for the functional, syste-wide analysis of glycoproteins.
@@ -67,7 +67,7 @@ Research thrives through collaboration. Therefore, we make our tools available f
 %}
 
 {% capture text %}
-The Schulze lab is young, and growing. We promote a diversity of backgrounds, experiences, perspectives, cultures, identities, and ideas, all of which are invaluable to the advancement of scientific research.
+The Schulze lab just started, but is growing. We promote a diversity of backgrounds, experiences, perspectives, cultures, identities, and ideas, all of which are invaluable to the advancement of scientific research.
 
 {%
   include link.html
@@ -81,7 +81,7 @@ The Schulze lab is young, and growing. We promote a diversity of backgrounds, ex
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Group.svg"
   link="team"
   title="The Group"
   text=text
@@ -89,6 +89,8 @@ The Schulze lab is young, and growing. We promote a diversity of backgrounds, ex
  
 
 # News
+
+{% include section.html %}
 
 <a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/schulze_lab?ref_src=twsrc%5Etfw">Tweets by schulze_lab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 {:.center}
