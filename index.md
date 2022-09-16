@@ -6,7 +6,7 @@ title: Home
 
 {% include section.html %}
 
-{% include banner.html image="images/Main_banner.mp4" %}
+{% include banner.html image="images/Main_banner.gif" %}
 
 Protein glycosylation, an inherent trait of all forms of life on Earth, is crucial for a multitude of cellular processes. Yet, for most prokaryotes little is known about which proteins are glycosylated, and how this modification is involved in their cell biology. Given the importance of prokaryotes as the cause of various human diseases, and as beneficial actors in microbiomes and biotechnology, it is crucial to advance our understanding of the roles of prokaryotic glycoproteins. The Schulze lab at the Rochester Institute of Technology is dedicated to this aim, using the strengths of functional glycoproteomics.
 
