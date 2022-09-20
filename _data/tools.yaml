@@ -1,47 +1,37 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Archaeal Proteome Project
+  subtitle: ""
+  group: featured
+  image: images/photo.jpg
+  link: https://archaealproteomeproject.org/
+  description: Community effort for the combined reanalysis of archaeal proteomics datasets
+  repo: arcpp/ArcPP
+  tags:
+    - resource
+
+- title: Ursgal
+  subtitle: ""
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Python framework combining a variety of bottom-up proteomics tools
+  repo: ursgal/ursgal
   tags:
     - software
 
-- title: Cool Web Server
+- title: pymzML
   group: more
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://github.com/ pymzml/pymzML
+  description: ""
+  repo:  pymzml/pymzML
+  tags:
+    - software
+
+- title: SugarPy
+  group: more
+  image: images/photo.jpg
+  link: https://github.com/SugarPy/SugarPy
+  description: ""
+  repo: ""
   tags:
     - software
