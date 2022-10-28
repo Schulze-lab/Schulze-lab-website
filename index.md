@@ -59,7 +59,7 @@ Research thrives through collaboration. Therefore, we make our tools available f
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Tools_resources.svg"
   link="resources"
   title="Tools and Resources"
   flip=false
