@@ -92,7 +92,7 @@ The Schulze lab just started, but is growing. We promote a diversity of backgrou
 
 {% include section.html %}
 
-<a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/schulze_lab?ref_src=twsrc%5Etfw">Tweets by schulze_lab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<a class="twitter-timeline" data-width="1000" data-height="500" href="https://twitter.com/schulze_lab?ref_src=twsrc%5Etfw">Tweets by schulze_lab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 {:.center}
 
 <a href="https://twitter.com/schulze_lab?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @GreeneScientist</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
