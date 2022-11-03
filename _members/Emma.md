@@ -1,5 +1,5 @@
 ---
-name: Emma
+name: Emma Durrenberger
 image: images/Could_be_you.png
 description: Student
 role: programmer
