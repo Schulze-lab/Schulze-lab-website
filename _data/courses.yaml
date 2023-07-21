@@ -1,0 +1,24 @@
+- title: Molecular Modeling and Proteomics
+  subtitle: BIOL 594/694
+  group: spring
+  image: images/photo.jpg
+  # link: https://archaealproteomeproject.org/
+  description: This course integrates both experimental and computational aspects of proteomics and structural biology. For proteomics, we will cover common separation techniques such as gel electrophoresis and chromatography, as well as methods for determining primary structures, focusing on mass spectrometry, while also providing the basics of Edman degradation and the Sanger method. For the structural biology part, we will explore techniques such NMR, cryo-electron microscopy, and x-ray crystallography, as well as computational approaches for molecular modeling. The experimental approaches will be discussed in lectures, while the corresponding data formats, computational tools and algorithms for data analysis will be covered in lab sessions.
+  # repo: arcpp/ArcPP
+  tags:
+    - Bioinformatics BS
+    - Bioinformatics MS
+    - Biotechnology BS
+    - Biology BS
+
+- title: Environmental Microbiology
+  subtitle: BIOL 471
+  group: fall
+  image: images/photo.jpg
+  link: https://github.com/
+  description: This course presents the relationships between microbes and their environments, as well as techniques to study them. It will cover the diverse microbiology of different habitats, ranging from soils and aquatic environments, to anthropized and extreme environments. Topics include the roles of microbes in nutrient and biogeochemical cycles, evolutionary aspects, as well as the relationships between environmental microbes and humans with regard to health impacts and biotechnological applications. Laboratory experiments will explore the types of bacteria in different environmental samples using a range of techniques from culturing and coliform counting, to metagenomic approaches. Impacts of microbes on the environment and human health will be highlighted through biogeochemical techniques and antibiotic resistance testing.
+  # repo: ursgal/ursgal
+  tags:
+    - Biotechnology BS
+    - Biology BS
+    - Environmental Science BS

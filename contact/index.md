@@ -8,7 +8,7 @@ nav:
 # <i class="fas fa-envelope"></i>Contact
 
 Our lab is part of the [Thomas H. Gosnell School of Life Sciences](https://www.rit.edu/science/thomas-h-gosnell-school-life-sciences), at the [Rochester Institute of Technology](https://www.rit.edu).
-We are currently located on the 1st floor of Gosnell Hall.
+We are located in Brown Hall (building 86).
 
 {%
   include link.html
@@ -34,7 +34,7 @@ We are currently located on the 1st floor of Gosnell Hall.
   icon=""
   text="Google Maps"
   tooltip="Find us on Google Maps"
-  link="https://goo.gl/maps/aGDFyYoGM21a27NY6"
+  link="https://goo.gl/maps/3j68hkNaoBJEP6f8A"
   style="button"
 %}
 
@@ -44,7 +44,7 @@ We are currently located on the 1st floor of Gosnell Hall.
 
 Schulze Lab<br>
 Rochester Institute of Technology<br>
-Gosnell Building, Room 1284<br>
+Brown Hall, Room 1121<br>
 85 Lomb Memorial Dr.<br>
 Rochester, NY 14623<br>
 USA
