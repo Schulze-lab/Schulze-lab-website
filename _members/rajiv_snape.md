@@ -2,7 +2,7 @@
 name: Rajiv Snape
 image: images/Could_be_you.png
 description: Student
-role: programmer
+role: alumni
 group: alumni
 aliases:
   - R. Snape

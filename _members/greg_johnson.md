@@ -1,7 +1,7 @@
 ---
 name: Greg Johnson
 image: images/Could_be_you.png
-description: Student
+description: Student Research Assistant
 role: programmer
 # group: alumni
 aliases:

@@ -21,7 +21,7 @@ I'm excited to have started my lab at RIT and am looking for new students, on th
 
 {% include section.html %}
 
-Our current lab members
+# Our current lab members
 
 {%
   include list.html
@@ -40,7 +40,7 @@ Our current lab members
 
 {% include section.html %}
 
-Alumni
+# Alumni
 
 {%
   include list.html
