@@ -49,8 +49,8 @@ Research thrives through collaboration. Therefore, we make our tools available f
 
 {%
   include link.html
-  link="tools"
-  text="Explore our tools and resoruces"
+  link="resources"
+  text="Explore our tools and resources"
   icon="fas fa-arrow-right"
   flip=false
 %}
