@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-microscope"></i>Publications
 
-{%
+<!-- {%
   include link.html
   type="google-scholar"
   icon=""
@@ -33,7 +33,7 @@ nav:
   tooltip=""
   link=0000-0002-4771-7987
   style="button"
-%}
+%} -->
 
 {% include section.html %}
 
