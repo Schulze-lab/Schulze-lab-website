@@ -418,3 +418,39 @@
   date: '2021-10-06'
   link: https://doi.org/gqrpmc
   _cache: 97479cbbfbc732acc7a94c7f2bf81f46cd8c1acfaef0da075c8c3efdcb8ef201
+- id: doi:10.1101/2022.12.21.521351
+  title: 'PeptideForest: Semisupervised machine learning integrating multiple search
+    engines for peptide identification'
+  authors:
+  - T. Ranff
+  - M. Dennison
+  - "J. B\xE9dorf"
+  - S. Schulze
+  - N Zinn
+  - M. Bantscheff
+  - J.J.R.M. van Heugten
+  - C. Fufezan
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-12-22'
+  link: https://doi.org/gshmdb
+  _cache: f8022b7d95d1fba3e5f5eec7caef69e66629f1546223fe59dc21522608435d33
+- id: doi:10.1101/2023.03.05.531186
+  title: Identification and characterization of structural and regulatory cell-shape
+    determinants in<i>Haloferax volcanii</i>
+  authors:
+  - Heather Schiller
+  - Joshua Kouassi
+  - Yirui Hong
+  - Theopi Rados
+  - Jasmin Kwak
+  - Anthony DiLucido
+  - Daniel Safer
+  - Anita Marchfelder
+  - Friedhelm Pfeiffer
+  - Alexandre Bisson-Filho
+  - Stefan Schulze
+  - Mechthild Pohlschroder
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-03-05'
+  link: https://doi.org/gshmdc
+  _cache: 328b6f838c7d5696031ece50055af7cd3efa38e8e443d52218506e5483400971
