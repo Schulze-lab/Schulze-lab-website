@@ -11,29 +11,27 @@ nav:
   include link.html
   type="google-scholar"
   icon=""
-  text="Google Scholar"
+  text=Google Scholar
   tooltip=""
-  link="https://scholar.google.com/citations?user=vV6jVUoAAAAJ&hl=en"
+  link=Stefan Schulze
   style="button"
 %}
-
 {%
   include link.html
   type="researchgate"
   icon=""
-  text="Researchgate"
+  text=Researchgate
   tooltip=""
-  link="https://www.researchgate.net/profile/Stefan-Schulze-4"
+  link=Stefan Schulze
   style="button"
 %}
-
 {%
   include link.html
   type="orcid"
   icon=""
-  text="ORCiD"
+  text=ORCiD
   tooltip=""
-  link="https://orcid.org/my-orcid?orcid=0000-0002-4771-7987"
+  link=0000-0002-4771-7987
   style="button"
 %}
 
