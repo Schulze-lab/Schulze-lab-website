@@ -67,7 +67,7 @@ Research thrives through collaboration. Therefore, we make our tools available f
 %}
 
 {% capture text %}
-The Schulze lab just started, but is growing. We promote a diversity of backgrounds, experiences, perspectives, cultures, identities, and ideas, all of which are invaluable to the advancement of scientific research.
+The Schulze lab is a dynamic team of Undergraduates, Master students, and Student Research Assistants. We promote a diversity of backgrounds, experiences, perspectives, cultures, identities, and ideas, all of which are invaluable to the advancement of scientific research.
 
 {%
   include link.html

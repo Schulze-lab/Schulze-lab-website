@@ -7,6 +7,36 @@ nav:
 
 # <i class="fas fa-microscope"></i>Publications
 
+{%
+  include link.html
+  type="google-scholar"
+  icon=""
+  text="Google Scholar"
+  tooltip=""
+  link="https://scholar.google.com/citations?user=vV6jVUoAAAAJ&hl=en"
+  style="button"
+%}
+
+{%
+  include link.html
+  type="researchgate"
+  icon=""
+  text="Researchgate"
+  tooltip=""
+  link="https://www.researchgate.net/profile/Stefan-Schulze-4"
+  style="button"
+%}
+
+{%
+  include link.html
+  type="orcid"
+  icon=""
+  text="ORCiD"
+  tooltip=""
+  link="https://orcid.org/my-orcid?orcid=0000-0002-4771-7987"
+  style="button"
+%}
+
 {% include section.html %}
 
 {% include search-box.html %}
