@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-I'm excited to have just started my lab at RIT and am looking for new students, especially on the bioinformatics side - there are always more ideas than hands to work on the projects! 
+I'm excited to have started my lab at RIT and am looking for new students, on the bioinformatics side as well as in the lab - there are always more ideas than hands to work on the projects! 
 
 {%
   include link.html
@@ -20,6 +20,8 @@ I'm excited to have just started my lab at RIT and am looking for new students, 
 
 
 {% include section.html %}
+
+Our current lab members
 
 {%
   include list.html
@@ -35,4 +37,18 @@ I'm excited to have just started my lab at RIT and am looking for new students, 
   filters="role: programmer"
 %} 
 {:.center}
+
+{% include section.html %}
+
+Alumni
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="group: alumni"
+%}
+
+{:.center}
+
 
