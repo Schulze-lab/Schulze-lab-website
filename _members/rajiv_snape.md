@@ -2,7 +2,7 @@
 name: Rajiv Snape
 image: images/snape.jpg
 description: Student
-role: alumni
+role: grad
 group: alumni
 aliases:
   - R. Snape
