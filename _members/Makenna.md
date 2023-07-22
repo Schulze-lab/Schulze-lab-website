@@ -1,6 +1,6 @@
 ---
 name: Makenna Swartz
-image: images/Could_be_you.png
+image: images/swartz.jpg
 description: Student, Emerson Fellow
 role: programmer
 # group: alum

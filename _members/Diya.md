@@ -1,6 +1,6 @@
 ---
 name: Diya Mathai
-image: images/Could_be_you.png
+image: images/mathai.jpg
 description: Student, Emerson Fellow
 role: programmer
 # group: alum
