@@ -1,6 +1,6 @@
 ---
 name: Lilly Rowland
-image: images/Could_be_you.png
+image: images/rowland.jpg
 description: Student, IE Student Fellow
 role: programmer
 # group: alumni

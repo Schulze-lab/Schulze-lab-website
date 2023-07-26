@@ -1,8 +1,8 @@
 ---
 name: This could be you
 image: images/Could_be_you.png
-description: Student
-role: programmer
+description: Student, Co-op, Research Assistant
+role: candidate
 # group: alum
 aliases:
   - Y. Not

@@ -1,13 +1,13 @@
 ---
-name: Makenna Swartz
-image: images/Could_be_you.png
+name: Diya Mathai
+image: images/mathai.jpg
 description: Student, Emerson Fellow
 role: programmer
 # group: alum
 aliases:
-  - M. Swartz
+  - D. Mathai
 links:
-  email: mes3452@rit.edu
+  email: dtm3426@rit.edu
 ---
 
 - Joined the lab in 2022 as an undergraduate (Bioinformatics major)

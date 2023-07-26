@@ -1,6 +1,6 @@
 ---
 name: Emma Durrenberger
-image: images/Could_be_you.png
+image: images/durrenberger.jpg
 description: Student
 role: programmer
 # group: alum

@@ -25,3 +25,7 @@ programmer:
 mascot:
   icon: fas fa-dog
   text: Mascot
+
+candidate:
+  icon: fas fa-glasses
+  text: Programmer, Biologist, ...
