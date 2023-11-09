@@ -3,7 +3,7 @@ name: Makenna Swartz
 image: images/swartz.jpg
 description: Student, Emerson Fellow
 role: programmer
-group: alumi
+group: alumni
 aliases:
   - M. Swartz
 links:

@@ -3,7 +3,6 @@ name: Stefan Schulze
 image: images/schulze.jpg
 description: Principal Investigator
 role: pi
-group: current
 aliases:
   - S. Schulze
   - S Schulze
