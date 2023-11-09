@@ -34,7 +34,7 @@ I'm excited to have started my lab at RIT and am looking for new students, on th
   include list.html
   data="members"
   component="portrait"
-  filters="role: programmer"
+  filters="group: current"
 %} 
 {%
   include list.html
