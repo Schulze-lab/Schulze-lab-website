@@ -12,3 +12,4 @@ links:
 
 - Joined the lab in 2022 as an undergraduate (Bioinformatics major)
 - Advanced Biology Research (BIOL-495) in Spring 2023
+- Advanced Biology Research (BIOL-495) in Fall 2023
