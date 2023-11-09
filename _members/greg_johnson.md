@@ -3,7 +3,7 @@ name: Greg Johnson
 image: images/johnson.jpg
 description: Student Research Assistant
 role: programmer
-# group: alumni
+group: alumni
 aliases:
   - G. Johnson
 links:

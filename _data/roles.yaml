@@ -1,5 +1,5 @@
 pi:
-  icon: fas fa-microscope
+  icon: fas fa-glasses
   text: Principal Investigator
 
 postdoc:
@@ -20,7 +20,7 @@ undergrad:
 
 programmer:
   icon: fas fa-code
-  text: Programmer
+  text: Computational Biologist
 
 mascot:
   icon: fas fa-dog
@@ -29,3 +29,7 @@ mascot:
 candidate:
   icon: fas fa-glasses
   text: Programmer, Biologist, ...
+
+microbio:
+  icon: fas fa-microscope
+  text: Microbiologist
