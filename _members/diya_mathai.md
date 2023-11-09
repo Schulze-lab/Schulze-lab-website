@@ -3,7 +3,7 @@ name: Diya Mathai
 image: images/mathai.jpg
 description: Student, Emerson Fellow
 role: programmer
-# group: alum
+group: current
 aliases:
   - D. Mathai
 links:

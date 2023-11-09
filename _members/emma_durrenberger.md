@@ -3,7 +3,7 @@ name: Emma Durrenberger
 image: images/durrenberger.jpg
 description: Student
 role: programmer
-# group: alum
+group: current
 aliases:
   - E. Durrenberger
 links:
