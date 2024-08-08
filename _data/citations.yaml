@@ -1,26 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1038/s41467-024-45196-0
-  title: Identification of structural and regulatory cell-shape determinants in Haloferax
-    volcanii
-  authors:
-  - Heather Schiller
-  - Yirui Hong
-  - Joshua Kouassi
-  - Theopi Rados
-  - Jasmin Kwak
-  - Anthony DiLucido
-  - Daniel Safer
-  - Anita Marchfelder
-  - Friedhelm Pfeiffer
-  - Alexandre Bisson
-  - Stefan Schulze
-  - Mechthild Pohlschroder
-  publisher: Nature Communications
-  date: '2024-02-15'
-  link: https://doi.org/gt6nm3
-  _cache: 5e64dc3dd325afe51a08267abbd1ec4bab967b732339896a06416b4649998704
 - id: doi:10.1371/journal.pbio.3001277
   title: Comprehensive glycoproteomics shines new light on the complexity and extent
     of glycosylation in archaea
@@ -454,23 +434,23 @@
   date: '2022-12-22'
   link: https://doi.org/gshmdb
   _cache: f8022b7d95d1fba3e5f5eec7caef69e66629f1546223fe59dc21522608435d33
-- id: doi:10.1101/2023.03.05.531186
-  title: Identification and characterization of structural and regulatory cell-shape
-    determinants in<i>Haloferax volcanii</i>
+- id: doi:10.1038/s41467-024-45196-0
+  title: Identification of structural and regulatory cell-shape determinants in Haloferax
+    volcanii
   authors:
   - Heather Schiller
-  - Joshua Kouassi
   - Yirui Hong
+  - Joshua Kouassi
   - Theopi Rados
   - Jasmin Kwak
   - Anthony DiLucido
   - Daniel Safer
   - Anita Marchfelder
   - Friedhelm Pfeiffer
-  - Alexandre Bisson-Filho
+  - Alexandre Bisson
   - Stefan Schulze
   - Mechthild Pohlschroder
-  publisher: bioRxiv
-  date: '2023-03-05'
-  link: https://doi.org/gshmdc
-  _cache: 328b6f838c7d5696031ece50055af7cd3efa38e8e443d52218506e5483400971
+  publisher: Nature Communications
+  date: '2024-02-15'
+  link: https://doi.org/gt6nm3
+  _cache: 5e64dc3dd325afe51a08267abbd1ec4bab967b732339896a06416b4649998704
