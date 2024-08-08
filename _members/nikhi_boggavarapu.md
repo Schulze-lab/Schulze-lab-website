@@ -3,14 +3,15 @@ name: Nikhi Boggavarapu
 image: images/Boggavarapu.jpg
 description: Research Assistant
 role: microbio
-# group: current
+group: current
 aliases:
   - N. Boggavarapu
 links:
   email: nb6672@rit.edu
-  linkedin: https://www.linkedin.com/in/nikhi-boggavarapu-7a549825b/
+  linkedin: nikhi-boggavarapu-7a549825b
 ---
 
-Joined the lab in Spring of 2024
-Biotechnology and Bioinformatics Double Major
-Emerson Fellowship - Summer 2024
+- Joined the lab as and undergraduate student (Biotechnology and Bioinformatics double major) in Spring of 2024
+- Emerson Fellow in Summer 2024!
+- Gave a talk at the Undergraduate Research Symposium 2024
+
