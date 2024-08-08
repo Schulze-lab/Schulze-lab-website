@@ -1,6 +1,6 @@
 ---
 name: Elena Fuentes Solano
-image: images/sam.jpg
+image: images/elena.jpg
 description: Student Research Assistant
 role: microbio
 group: current
