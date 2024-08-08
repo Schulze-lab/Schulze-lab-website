@@ -6,8 +6,6 @@ role: programmer
 group: alumni
 aliases:
   - R. Snape
-# links:
-  # email: mes3452@rit.edu
 ---
 
 - Joined the lab in 2023 as a Master student (Bioinformatics)
