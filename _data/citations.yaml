@@ -1,6 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1038/s41467-024-45196-0
+  title: Identification of structural and regulatory cell-shape determinants in Haloferax
+    volcanii
+  authors:
+  - Heather Schiller
+  - Yirui Hong
+  - Joshua Kouassi
+  - Theopi Rados
+  - Jasmin Kwak
+  - Anthony DiLucido
+  - Daniel Safer
+  - Anita Marchfelder
+  - Friedhelm Pfeiffer
+  - Alexandre Bisson
+  - Stefan Schulze
+  - Mechthild Pohlschroder
+  publisher: Nature Communications
+  date: '2024-02-15'
+  link: https://doi.org/gt6nm3
+  _cache: 5e64dc3dd325afe51a08267abbd1ec4bab967b732339896a06416b4649998704
 - id: doi:10.1371/journal.pbio.3001277
   title: Comprehensive glycoproteomics shines new light on the complexity and extent
     of glycosylation in archaea
