@@ -3,7 +3,7 @@ name: Lilly Rowland
 image: images/rowland.jpg
 description: Student, IE Student Fellow
 role: programmer
-group: current
+group: alumni
 aliases:
   - L. Rowland
 links:

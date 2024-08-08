@@ -12,3 +12,4 @@ links:
 
 - Joined the lab in 2023 as a Master student (Bioinformatics)
 - Working as a Student Research Assistant in the lab, partially funded by Cellzome/GSK
+- Last status update: working as a Bioinformaticist at University of Michigan (Schloss lab)

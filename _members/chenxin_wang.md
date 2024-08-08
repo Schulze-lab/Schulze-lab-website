@@ -12,4 +12,5 @@ links:
 ---
 
 - Joined the lab in 2023 as an undergraduate student (Biomedical Sciences major)
-- CSTEP fellow!
+- CSTEP fellow during Fall 2023, Spring 2024, and Summer 2024!
+- Presented a poster at the Undergraduate Research Symposium 2024

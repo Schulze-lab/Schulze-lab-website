@@ -14,3 +14,4 @@ links:
 - Advanced Biology Research (BIOL-495) in Spring 2023
 - Emerson Fellowship in Summer 2023!
 - Presented a poster at the Undergraduate Research Symposium 2023
+- Successfully presented her Master thesis proposal in May 2024!
