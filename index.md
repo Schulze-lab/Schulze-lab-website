@@ -95,6 +95,6 @@ The Schulze lab is a dynamic team of Undergraduates, Master students, and Studen
 <a class="twitter-timeline" data-width="1100" data-height="500" href="https://twitter.com/schulze_lab?ref_src=twsrc%5Etfw">Tweets by schulze_lab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 {:.center}
 
-<a href="https://twitter.com/schulze_lab?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @GreeneScientist</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/schulze_lab?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @schulze_lab</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <a href="https://twitter.com/intent/tweet?screen_name=schulze_lab&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @schulze_lab</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {:.center}
