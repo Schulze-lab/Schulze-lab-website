@@ -10,6 +10,7 @@
   - Benjamin A. Garcia
   - Mechthild Pohlschroder
   publisher: PLOS Biology
+  image: images/PLOSBio_glycoproteomics.png
   date: '2021-06-17'
   link: https://doi.org/gqrnzc
   _cache: 140c89f21e5c8f3c62906d390536ddc2786b4cb8d5563ab90c8397cc1bbd1056
@@ -37,6 +38,7 @@
   - Henning Urlaub
   - Mechthild Pohlschroder
   publisher: Nature Communications
+  image: images/NatCommun_ArcPP.webp
   date: '2020-06-19'
   link: https://doi.org/gqrnzd
   _cache: 862fba7409a5edf7c5fb1cfff4b48e6ffd75a12edd005bacc7833d3488bb7f1b
@@ -51,6 +53,7 @@
   - Manuela Tripepi
   - Mechthild Pohlschroder
   publisher: Journal of Microbiology &amp; Biology Education
+  image: images/KirbyBauer.jpg
   date: '2022-04-29'
   link: https://doi.org/gqrnw6
   _cache: 90c9276f12193a15d040eab6dfae9c6ac07048ae59b26b6ac4a94ed826f7f51c
@@ -65,6 +68,7 @@
   - Kyle Costa
   - Mechthild Pohlschroder
   publisher: Applied and Environmental Microbiology
+  image: images/mPAD.png
   date: '2022-02-22'
   link: https://doi.org/gqrn7s
   _cache: f7836dd6643f14561a81c4c2548cd05e6aca59d042fad73696742b62b568cd00
@@ -81,6 +85,7 @@
   - Christian Fufezan
   - Mechthild Pohlschroder
   publisher: Journal of Proteome Research
+  image: images/JPR_Ursgal.jpg
   date: '2021-01-29'
   link: https://doi.org/gqrn7v
   _cache: b6a3a69aeae8be97ad04a1fefbd6f24f99365a98e30624781ad8add6e147bd02
@@ -112,6 +117,7 @@
   - Alexandre W. Bisson Filho
   - Mechthild Pohlschroder
   publisher: mSphere
+  image: images/mSphere_honeycomb.jpeg
   date: '2020-12-23'
   link: https://doi.org/gqrn8f
   _cache: 756229712f86a886503730c1676407f4067d53fd61dfa2669c9ea678be380469
@@ -415,6 +421,7 @@
   - Lev I. Levitsky
   - Yasset Perez-Riverol
   publisher: Nature Communications
+  image: images/NatCommun_SDRF.webp
   date: '2021-10-06'
   link: https://doi.org/gqrpmc
   _cache: 97479cbbfbc732acc7a94c7f2bf81f46cd8c1acfaef0da075c8c3efdcb8ef201
@@ -431,6 +438,7 @@
   - J.J.R.M. van Heugten
   - C. Fufezan
   publisher: bioRxiv
+  image: images/PeptideForest.jpg
   date: '2022-12-22'
   link: https://doi.org/gshmdb
   _cache: f8022b7d95d1fba3e5f5eec7caef69e66629f1546223fe59dc21522608435d33
