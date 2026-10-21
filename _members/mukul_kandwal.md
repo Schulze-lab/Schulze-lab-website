@@ -3,7 +3,7 @@ name: Mukul Kandwal
 image: images/mukul.jpg
 description: Student Research Assistant
 role: programmer
-group: current
+group: alumni
 aliases:
   - M. Kandwal
 links:

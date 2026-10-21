@@ -3,7 +3,7 @@ name: Chenxin Wang
 image: images/wang.jpg
 description: Student, CSTEP fellow
 role: microbio
-group: current
+group: alumni
 aliases:
   - C. Wang
 links:
@@ -14,3 +14,4 @@ links:
 - Joined the lab in 2023 as an undergraduate student (Biomedical Sciences major)
 - CSTEP fellow during Fall 2023, Spring 2024, and Summer 2024!
 - Presented a poster at the Undergraduate Research Symposium 2024
+- Graduated in 2026 and joined a PhD program in Animal Science at Cornell University!

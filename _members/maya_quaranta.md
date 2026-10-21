@@ -3,7 +3,7 @@ name: Maya Quaranta
 image: images/Could_be_you.png
 description: Student
 role: microbio
-group: current
+group: alumni
 aliases:
   - M. Quaranta
 links:

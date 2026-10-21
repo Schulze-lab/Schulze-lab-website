@@ -3,7 +3,7 @@ name: Lorelei Robinson
 image: images/robinson.jpg
 description: Student Research Assistant
 role: microbio
-group: current
+group: alunni
 aliases:
   - L. Robinson
 links:
@@ -14,3 +14,5 @@ links:
 - Joined the lab in 2023 as an undergraduate student (Biotechnology major)
 - Working as a Student Research Assistant in the lab
 - Presented a poster at the Rochester Academy of Science Fall Scientific Paper Session 2023!
+- Graduated in Fall 2025
+- Joined a Masters program in Japan in 2026!
