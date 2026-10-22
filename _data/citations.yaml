@@ -509,7 +509,7 @@
   link: https://doi.org/hcpgpd
   _cache: d9bded0a666ab6dab0fd194e7fe419d5938fc9de49533e38e182f4fccc6ae747
 - id: doi:10.1128/jb.00062-25
-  title: "<i>Haloferax volcanii</i>: a versatile model for studying archaeal biology"
+  title: '<i>Haloferax volcanii</i>: a versatile model for studying archaeal biology'
   authors:
   - Mechthild Pohlschroder
   - Stefan Schulze
@@ -568,8 +568,8 @@
   link: https://doi.org/hcpgph
   _cache: 783258b15e332e1b1c9d0828dfaa0ca5fe0073233dcaddae8567908cb8665d49
 - id: doi:10.1021/acs.jproteome.6c00074
-  title: 'ProtPen Combines Sequence- and Structure-based Approaches
-    to Facilitate Protein Function Predictions on a Proteome-wide Scale'
+  title: ProtPen Combines Sequence- and Structure-based Approaches to Facilitate Protein
+    Function Predictions on a Proteome-wide Scale
   authors:
   - Diya Mathai
   - Stefan Schulze
