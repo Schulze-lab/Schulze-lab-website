@@ -1,7 +1,7 @@
 ---
 name: Michelle Jeong
 image: images/jeong.jpg
-description: Student
+description: Student Research Assistant
 role: microbio
 group: current
 aliases:

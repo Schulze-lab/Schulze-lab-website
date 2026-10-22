@@ -3,7 +3,7 @@ name: Anjali Kaur
 image: images/Could_be_you.png
 description: Student
 role: programmer
-group: current
+group: alumni
 aliases:
   - A. Kaur
 links:
