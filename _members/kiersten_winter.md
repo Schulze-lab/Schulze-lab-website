@@ -3,7 +3,7 @@ name: Kiersten Winter
 image: images/winter.jpg
 description: Student Research Assistant
 role: programmer
-group: current
+group: alumni
 aliases:
   - K. Winter
 links:

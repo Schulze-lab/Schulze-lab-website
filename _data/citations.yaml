@@ -425,23 +425,6 @@
   date: '2021-10-06'
   link: https://doi.org/gqrpmc
   _cache: 97479cbbfbc732acc7a94c7f2bf81f46cd8c1acfaef0da075c8c3efdcb8ef201
-- id: doi:10.1101/2022.12.21.521351
-  title: 'PeptideForest: Semisupervised machine learning integrating multiple search
-    engines for peptide identification'
-  authors:
-  - T. Ranff
-  - M. Dennison
-  - "J. B\xE9dorf"
-  - S. Schulze
-  - N Zinn
-  - M. Bantscheff
-  - J.J.R.M. van Heugten
-  - C. Fufezan
-  publisher: bioRxiv
-  image: images/PeptideForest.jpg
-  date: '2022-12-22'
-  link: https://doi.org/gshmdb
-  _cache: f8022b7d95d1fba3e5f5eec7caef69e66629f1546223fe59dc21522608435d33
 - id: doi:10.1038/s41467-024-45196-0
   title: Identification of structural and regulatory cell-shape determinants in Haloferax
     volcanii
@@ -463,3 +446,120 @@
   date: '2024-02-15'
   link: https://doi.org/gt6nm3
   _cache: 5e64dc3dd325afe51a08267abbd1ec4bab967b732339896a06416b4649998704
+- id: doi:10.1007/s12195-025-00843-4
+  title: CRISPR-dCas9 Activation of TSG-6 in MSCs Modulates the Cargo of MSC-Derived
+    Extracellular Vesicles and Attenuates Inflammatory Responses in Human Intervertebral
+    Disc Cells In Vitro
+  authors:
+  - Iker Martinez-Zalbidea
+  - Gabbie Wagner
+  - Nea Bergendahl
+  - Addisu Mesfin
+  - Varun Puvanesarajah
+  - Wolfgang Hitzl
+  - Stefan Schulze
+  - Karin Wuertz-Kozak
+  publisher: Cellular and Molecular Bioengineering
+  image: images/CellMolBioengineering_CRISPR-MSC.jpg
+  date: '2025-02-01'
+  link: https://doi.org/hcpgpb
+  _cache: b721f3636861a50c38204891967ae1dbfe9daad0402b5a8677c57d3dc7bd0cad
+- id: doi:10.1021/acs.jproteome.4c00686
+  title: 'PeptideForest: Semisupervised Machine Learning Integrating Multiple Search
+    Engines for Peptide Identification'
+  authors:
+  - Tristan Ranff
+  - Matthew Dennison
+  - "Jeroen B\xE9dorf"
+  - Stefan Schulze
+  - Nico Zinn
+  - Marcus Bantscheff
+  - Jasper J. R. M. van Heugten
+  - Christian Fufezan
+  publisher: Journal of Proteome Research
+  image: images/PeptideForest.jpg
+  date: '2025-01-22'
+  link: https://doi.org/hcpgpc
+  _cache: 608de1d8dde6a1c2887a096a304f1d5f4b5cc58dcb4ea47616dc31cbc3ad97cc
+- id: doi:10.1038/s42003-025-07962-8
+  title: Advancing archaeal research through FAIR resource and data sharing, and inclusive
+    community building
+  authors:
+  - Solenne Ithurbide
+  - Nicole Buan
+  - Stefan Schulze
+  publisher: Communications Biology
+  image: images/CommunBiol_Archaea-FAIR.jpg
+  date: '2025-03-29'
+  link: https://doi.org/hcpgpd
+  _cache: d9bded0a666ab6dab0fd194e7fe419d5938fc9de49533e38e182f4fccc6ae747
+- id: doi:10.1128/jb.00062-25
+  title: '<i>Haloferax volcanii</i>: a versatile model for studying archaeal biology'
+  authors:
+  - Mechthild Pohlschroder
+  - Stefan Schulze
+  - Friedhelm Pfeiffer
+  - Yirui Hong
+  publisher: Journal of Bacteriology
+  image: images/JBact_haloferax-volcanii.jpg
+  date: '2025-06-24'
+  link: https://doi.org/hcgg73
+  _cache: 5331cdbce543ce4a0ae42be8a64308d57a5462bdf0ec9b337f3846985c208d9c
+- id: doi:10.1007/978-1-0716-4623-6_19
+  title: Large Language Model (LLM)-Based Advances in Prediction of Post-translational
+    Modification Sites in Proteins
+  authors:
+  - Pawel Pratyush
+  - Suresh Pokharel
+  - Stefan Schulze
+  - Lisa Bramer
+  - Robert H. Newman
+  - Dukka B. KC
+  publisher: Methods in Molecular Biology
+  date: '2025-01-01'
+  link: https://doi.org/hcpgpf
+  _cache: 4efa1c2fb74d07902628d43751cc6d20a379ecaa1f0f76a9e7423e92e486e2ea
+- id: doi:10.1128/mbio.00906-25
+  title: "Quorum sensing mediates morphology and motility transitions in the model\
+    \ archaeon\n                    <i>Haloferax volcanii</i>"
+  authors:
+  - Priyanka Chatterjee
+  - Caroline E. Consoli
+  - Heather Schiller
+  - Kiersten K. Winter
+  - Monica E. McCallum
+  - Stefan Schulze
+  - Mechthild Pohlschroder
+  publisher: mBio
+  image: images/mBio_quorum-sensing.jpg
+  date: '2025-07-09'
+  link: https://doi.org/hcpgpg
+  _cache: ffc0371001bbf50256ca00707810ba385136343bb20c4d9d0418e3fa8dd5404a
+- id: doi:10.1016/j.jbc.2026.113477
+  title: Characterization of aliA and aliB deletion mutants reveals a dominant role
+    of AliA in Haloferax volcanii lipoprotein lipidation
+  authors:
+  - Yirui Hong
+  - Andy Garcia
+  - Samuel Kopelev
+  - Jacob A. Cote
+  - Friedhelm Pfeiffer
+  - Paula Welander
+  - Stefan Schulze
+  - Mechthild Pohlschroder
+  publisher: Journal of Biological Chemistry
+  image: images/JBC_lipoproteomics.jpg
+  date: '2026-10-01'
+  link: https://doi.org/hcpgph
+  _cache: 783258b15e332e1b1c9d0828dfaa0ca5fe0073233dcaddae8567908cb8665d49
+- id: doi:10.1021/acs.jproteome.6c00074
+  title: ProtPen Combines Sequence- and Structure-based Approaches to Facilitate Protein
+    Function Predictions on a Proteome-wide Scale
+  authors:
+  - Diya Mathai
+  - Stefan Schulze
+  publisher: Journal of Proteome Research
+  image: images/JPR_ProtPen.jpg
+  date: '2026-08-14'
+  link: https://doi.org/hcpgpj
+  _cache: c9541c460cdba28e77700c61b1d680f55b1e5fcd22bfc389d6e63d3d25161f2c

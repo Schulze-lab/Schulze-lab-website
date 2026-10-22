@@ -3,7 +3,7 @@ name: Katherine Palmatier
 image: images/katherine.jpg
 description: Student
 role: microbio
-group: current
+group: alumni
 aliases:
   - K. Palmatier
 links:
@@ -12,3 +12,4 @@ links:
 
 - Joined the lab in 2024 as an undergraduate student (Biotechnology & Molecular Bioscience major)
 - Advanced Biology Research (BIOL-295) in Spring 2024
+- Graduated in Spring 2026

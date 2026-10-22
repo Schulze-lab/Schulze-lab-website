@@ -13,4 +13,4 @@ links:
 - Joined the lab in 2023 as an undergraduate student (Biotechnology major)
 - Advanced Biology Research (BIOL-495) in Fall 2023
 - Working as a Student Research Assistant in the lab
-- Last status update: workign as a Laboratory Technician for Galapagos 
+- After graduating, started working as a Laboratory Technician for Galapagos 
