@@ -504,18 +504,19 @@
   - Nicole Buan
   - Stefan Schulze
   publisher: Communications Biology
+  image: images/CommunBiol_Archaea-FAIR.jpg
   date: '2025-03-29'
   link: https://doi.org/hcpgpd
   _cache: d9bded0a666ab6dab0fd194e7fe419d5938fc9de49533e38e182f4fccc6ae747
 - id: doi:10.1128/jb.00062-25
-  title: "<i>Haloferax volcanii</i>\n                    : a versatile model for studying\
-    \ archaeal biology"
+  title: "<i>Haloferax volcanii</i>: a versatile model for studying archaeal biology"
   authors:
   - Mechthild Pohlschroder
   - Stefan Schulze
   - Friedhelm Pfeiffer
   - Yirui Hong
   publisher: Journal of Bacteriology
+  image: images/JBact_haloferax-volcanii.jpg
   date: '2025-06-24'
   link: https://doi.org/hcgg73
   _cache: 5331cdbce543ce4a0ae42be8a64308d57a5462bdf0ec9b337f3846985c208d9c
@@ -545,6 +546,7 @@
   - Stefan Schulze
   - Mechthild Pohlschroder
   publisher: mBio
+  image: images/mBio_quorum-sensing.jpg
   date: '2025-07-09'
   link: https://doi.org/hcpgpg
   _cache: ffc0371001bbf50256ca00707810ba385136343bb20c4d9d0418e3fa8dd5404a
@@ -561,19 +563,18 @@
   - Stefan Schulze
   - Mechthild Pohlschroder
   publisher: Journal of Biological Chemistry
+  image: images/JBC_lipoproteomics.jpg
   date: '2026-10-01'
   link: https://doi.org/hcpgph
   _cache: 783258b15e332e1b1c9d0828dfaa0ca5fe0073233dcaddae8567908cb8665d49
 - id: doi:10.1021/acs.jproteome.6c00074
-  title: 'ProtPen Combines
-
-    Sequence- and Structure-based Approaches
-
+  title: 'ProtPen Combines Sequence- and Structure-based Approaches
     to Facilitate Protein Function Predictions on a Proteome-wide Scale'
   authors:
   - Diya Mathai
   - Stefan Schulze
   publisher: Journal of Proteome Research
+  image: images/JPR_ProtPen.jpg
   date: '2026-08-14'
   link: https://doi.org/hcpgpj
   _cache: c9541c460cdba28e77700c61b1d680f55b1e5fcd22bfc389d6e63d3d25161f2c
