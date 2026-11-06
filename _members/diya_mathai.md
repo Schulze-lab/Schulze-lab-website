@@ -18,4 +18,4 @@ links:
 - Successfully presented her Master thesis proposal in May 2024!
 - Re-established the Bioinformatics Club.
 - Successfully defended her thesis in April 2025.
-- Published the results of her thesis in 2026: "ProtPen Combines Sequence- and Structure-based Approaches to Facilitate Protein Function Predictions on a Proteome-wide Scale", Journal of Proteome Research, https://doi.org/10.1021/acs.jproteome.6c00074
+- Published the results of her thesis in 2026: "ProtPen Combines Sequence- and Structure-based Approaches to Facilitate Protein Function Predictions on a Proteome-wide Scale", Journal of Proteome Research, [Link](https://doi.org/10.1021/acs.jproteome.6c00074)
