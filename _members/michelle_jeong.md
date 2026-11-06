@@ -8,7 +8,7 @@ aliases:
   - M. Jeong
 links:
   email: mj1603@g.rit.edu
-  linkedin: michelle-jeong
+  linkedin: michelle-jeong-5228453b0
 ---
 
 - Joined the lab in 2026 as an undergraduate student (Biomedical Sciences major)

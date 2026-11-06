@@ -3,7 +3,7 @@ name: Nikhi Boggavarapu
 image: images/Boggavarapu.jpg
 description: Research Assistant
 role: microbio
-group: current
+group: alumni
 aliases:
   - N. Boggavarapu
 links:
@@ -14,4 +14,5 @@ links:
 - Joined the lab as and undergraduate student (Biotechnology and Bioinformatics double major) in Spring of 2024
 - Emerson Fellow in Summer 2024!
 - Gave a talk at the Undergraduate Research Symposium 2024
+- Graduated in Spring 2026 and joined the Biomedical Sciences PhD program at University of Buffalo!
 
