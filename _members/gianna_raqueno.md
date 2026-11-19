@@ -16,3 +16,4 @@ links:
 - 2024 STRATUS Conference Proceeding on “A Database of Environmental Bacterial Flora for Remote Sensing Applications”
 - Graduated from the University of Rochester in 2025 with a BS in Microbiology
 - Joined the lab in 2026 as a Bioinformatics Master’s student
+- Successfully defended the Master thesis proposal in fall 2026
