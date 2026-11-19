@@ -7,7 +7,7 @@ group: current
 aliases:
   - C. Cole-French
 links:
-  email: cec2876@rit.edu
+  email: cec2876@gmail.com
   linkedin: catherine-cole-french-451661347
 ---
 

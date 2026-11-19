@@ -8,6 +8,7 @@ aliases:
   - S. Orcutt
 links:
   email: sdo5857@g.rit.edu
+  linkedin: soren-orcutt-92061b293
 ---
 
 - Joined the lab as and undergraduate student (Biotechnology and Molecular Biosciences major) in spring  2026
